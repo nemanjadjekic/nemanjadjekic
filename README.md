@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:computer: Software Engineer
+:computer: Embedded Software Engineer
 
 :penguin: *Unix Nerd 
 
