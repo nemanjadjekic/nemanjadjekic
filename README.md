@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+:computer: Software Engineer
+
+:penguin: *Unix Nerd 
+
+:mortar_board: Currently improving my knowledge in PCB design
+
+:zap: Like to play with Web and Mobile App development in free time
+
 <!--
 **nemanjadjekic/nemanjadjekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
