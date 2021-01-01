@@ -4,7 +4,7 @@
 
 :penguin: *Unix Nerd 
 
-:mortar_board: Currently improving my knowledge in PCB design
+🔭 Currently porting MCU2 Udemy course CAN excercises to STM Blue Pill (STM32F103C8T6)
 
 :zap: Like to play with Web and Mobile App development in free time
 
