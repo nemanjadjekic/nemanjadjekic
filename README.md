@@ -4,7 +4,7 @@
 
 :penguin: *Unix Nerd 
 
-🔭 Currently porting MCU2 Udemy course CAN excercises to STM Blue Pill (STM32F103C8T6)
+🔭 Currently working on OOP labs from ETF Belgrade
 
 :zap: Like to play with Web and Mobile App development in free time
 
