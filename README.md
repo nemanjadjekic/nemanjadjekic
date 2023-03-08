@@ -4,7 +4,7 @@
 
 :penguin: *Unix Nerd 
 
-🔭 Currently working on OOP labs from ETF Belgrade
+🔭 Currently working on MCU2/3 courses
 
 :zap: Like to play with Web and Mobile App development in free time
 
