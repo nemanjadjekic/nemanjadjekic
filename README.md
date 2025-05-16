@@ -4,9 +4,9 @@
 
 :penguin: *Unix Nerd 
 
-🔭 Currently working on MCU2/3 courses
+🔭 Currently working on MCU3 course and Denarius project
 
-:zap: Like to play with Web and Mobile App development in free time
+:zap: Like to play with different kind of technology in free time
 
 <!--
 **nemanjadjekic/nemanjadjekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
