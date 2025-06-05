@@ -2,11 +2,7 @@
 
 :computer: Embedded Software Engineer
 
-:penguin: *Unix Nerd 
-
-🔭 Currently working on MCU3 course and Denarius project
-
-:zap: Like to play with different kind of technology in free time
+⛰️ Migrated to codeberg.org/ndjekic
 
 <!--
 **nemanjadjekic/nemanjadjekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
