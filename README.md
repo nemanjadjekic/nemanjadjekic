@@ -2,7 +2,7 @@
 
 :computer: Embedded Software Engineer
 
-⛰️ Migrated to codeberg.org/ndjekic
+⛰️ Migrated to [codeberg.org/ndjekic](codeberg.org/ndjekic)
 
 <!--
 **nemanjadjekic/nemanjadjekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
